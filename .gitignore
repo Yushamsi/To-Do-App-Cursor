@@ -1,0 +1,11 @@
+# Nuxt build output
+frontend/.nuxt/
+frontend/node_modules/
+
+# Python virtual environment
+backend/venv/
+
+# General
+.DS_Store
+*.log
+.env
